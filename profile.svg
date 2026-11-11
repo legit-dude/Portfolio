@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd6c9"/>
+      <stop offset="1" stop-color="#ffb08f"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="#ece9ff"/>
+  <circle cx="100" cy="78" r="38" fill="url(#g)"/>
+  <path d="M22 200c0-44 35-70 78-70s78 26 78 70z" fill="#5b3df5"/>
+  <path d="M62 70c2-30 24-42 46-38 20 3 32 18 30 38-10-14-24-20-40-20-14 0-28 6-36 20z" fill="#22223b"/>
+  <text x="100" y="188" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">KR</text>
+</svg>
